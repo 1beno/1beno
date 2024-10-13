@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=1beno&style=plastic)
 ### Hi, there 👋 I’m Beno
 I am a Computer Science student with a primary interest in web and mobile app development and Cyber Security. I am consistently active in enhancing my understanding and skills in this field.
 
