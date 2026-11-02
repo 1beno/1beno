@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=1beno&color=yellow&style=plastic)
 ### Hi, there 👋 I’m Ben
-I am a Computer Science graduate with a strong passion for Data Science, Machine Learning, Artificial Intelligence, and Data Analytics. I enjoy solving real-world problems through data-driven approaches and developing intelligent solutions that create meaningful impact. As a lifelong learner, I am committed to continuously expanding my knowledge, embracing emerging technologies, and growing as a data professional. Discover more about me on my [personal website!](https://bgabriel.site/)!
+Computer Science graduate from Universitas Pertamina with a specialization in Data Science and a strong interest in developing data-driven solutions. Experienced in Data Analytics, Data Visualization, Data Cleaning, and Data Modeling, with proficiency in Python for data processing, analysis, and Machine Learning model development. Equipped with strong analytical thinking, problem-solving, and teamwork skills, with a continuous learning mindset and a commitment to leveraging technology to deliver effective, data-driven solutions. Discover more about me on my [personal website!](https://bgabriel.site/)!
 
 #### Connect with me
 <!-- <a href="https://x.com/iambeno_?t=o9BJnyIRY5u4oMiyUJTOTg&s=08">![image](https://github.com/user-attachments/assets/cdd9c568-d9b8-465d-92cc-424da1f2bec1)</a> -->
